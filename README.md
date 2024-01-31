@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🎂 **Birthday**: 04.01
+- 📕 **Personality type**: INFJ 2w1
+
 <!--
 **zemscript/zemscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
