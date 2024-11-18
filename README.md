@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**zemscript/zemscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 🎂 I'm 20 years old
+- 💎 My personality type is INFJ-T 6w5
+- 🌱 I'm passionate about web app development and learning new technologies in this area
+- 🔭 I work on small projects that make my life a little easier
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and technologies
+- 🛠️ Main technologies: JavaScript (TypeScript), React
+- 🎨 Working with UI/UX: Ant Design, Styled-components
+- ⚙️ Tools: Git, Figma
+
+## Hobbies
+- 🎨 I'm learning to draw pixel art
